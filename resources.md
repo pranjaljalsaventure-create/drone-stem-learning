@@ -39,6 +39,6 @@ Drone education can lead to further exploration of:
 
 ## Official Information
 
-For current Indian aviation and drone requirements, learners and parents should consult the Directorate General of Civil Aviation (DGCA) and its current drone guidance.
+For current Indian aviation and drone requirements,<a href="https://scilindia.org/courses/Drone-pilot-training-course">drone learning</a> and parents should consult the Directorate General of Civil Aviation (DGCA) and its current drone guidance.
 
 Formal remote-pilot training requirements should not be confused with introductory children's STEM activities.
